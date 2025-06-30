@@ -41,7 +41,7 @@ Creates and populates the `Customers` and `Orders` tables.
 5 queries demonstrating **LEFT JOIN**.
 
 ### `right_join.sql`
-5 queries demonstrating **RIGHT JOIN** (for MySQL/PostgreSQL only).
+5 queries demonstrating **RIGHT JOIN**.
 
 ### `fullouter_join.sql`
 5 queries demonstrating **FULL OUTER JOIN**. Includes an emulation using `UNION` for SQLite.
