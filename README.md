@@ -1,4 +1,4 @@
-# SQL Joins Practice
+# SQL Joins
 
 This repository contains SQL scripts demonstrating the use of various types of joins:
 
